@@ -1,7 +1,7 @@
 name: gd_datetime_picker
 description: A date time picker for flutter, you can choose date / time / date&time in English Dutch and Chinese, and you can also custom your own picker content
 version: 0.0.2
-publisher: gedeng
+publish_to: gedeng
 homepage: https://pub.dev/packages/gd_datetime_picker
 repository: https://github.com/1084493818/gd_datetime_picker
 
